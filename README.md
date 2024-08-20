@@ -1,8 +1,8 @@
 # Laboratório AI-900 Azure Machine Learning
 
 Esse projeto é sobre a previsão de aluguel de 
-bicicletas, criados através do Azure machine Learning.
-O projeto faz uma previsão real e futura para aluguel de bicicletas.
+bicicletas, criado através do Azure machine Learning.
+O projeto faz uma previsão real e futura para aluguel de bicicletas, exemplificando, a quantidade para se adquirir num determinado mês/ano.
 
 💡 IMPORTANTE:
 Para esse projeto é necessário criar uma conta no [Portal Azure](https://portal.azure.com/).
